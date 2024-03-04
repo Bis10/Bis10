@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bishnu Suyel
 - 👀 I’m interested in learning as a full stack developer.
-- 🌱 I’m currently studying in Business School Helsinki
+- 🌱 I’m currently studying in Business College Helsinki.
 - 💞️ I’m looking to collaborate on any javascript project.
 - 📫 How to reach me: suyel2007@gmail.com
   
