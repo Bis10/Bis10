@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bishnu Suyel
-- 🌱 I’m currently studying Full Stack Development in Business College Helsinki.
 - 💞️ I’m looking to collaborate on any javascript project.
 - 📫 Reach me: suyel2007@gmail.com
   
