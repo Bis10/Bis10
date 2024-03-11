@@ -3,7 +3,3 @@
 - 📫 Reach me: suyel2007@gmail.com
 - Find me on
   * Linkedin
-<!---
-Bis10/Bis10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
