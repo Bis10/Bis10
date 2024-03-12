@@ -2,4 +2,4 @@
 - 💞️ I’m looking to collaborate on any javascript project.
 - 📫 Reach me: suyel2007@gmail.com
 - Find me on
-  •	Linkedin [Linkedin](https://www.linkedin.com/in/bishnu-suyel).
+  •	[Linkedin](https://www.linkedin.com/in/bishnu-suyel).
