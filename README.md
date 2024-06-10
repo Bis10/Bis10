@@ -1,6 +1,7 @@
 # Hi, I'm Bishnu! 👋
 
 I am a IT student at Business College Helsinki.
+![](https://komarev.com/ghpvc/?username=Bis10)
 
 ![Bis10's Stats](https://github-readme-stats.vercel.app/api?username=Bis10&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
