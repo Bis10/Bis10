@@ -11,7 +11,6 @@ I am a IT student at Business College Helsinki.
 
   - Learning Full Stack Web Development
   - Exploring Reactjs and Symfony.
-  - Navigating through the world of React Router for seamless page transitions.
   - Styling with Bootstrap to create modern and responsive user interfaces.
 
 
