@@ -1,6 +1,6 @@
 # Hi, I'm Bishnu! 👋
 
-I am a IT student at Business College Helsinki.
+I am an IT student at Business College Helsinki.
 
 ![](https://komarev.com/ghpvc/?username=Bis10)
 
