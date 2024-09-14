@@ -15,6 +15,7 @@ I am an IT student at Business College Helsinki.
   - Exploring Reactjs and Symfony.
   - Styling with Bootstrap to create modern and responsive user interfaces.
   - Engaging my skills on Drupal and CI/CD.
+  - Onboarding to AWS
 
 
 ## 📬 Get in Touch
