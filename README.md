@@ -2,9 +2,9 @@
 
 I am an IT student at Business College Helsinki.
 
-![](https://komarev.com/ghpvc/?username=Bis10)
+![](https://komarev.com/ghpvc/?username=bishnu-suyel)
 
-![Bis10's Stats](https://github-readme-stats.vercel.app/api?username=Bis10&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![bishnu-suyel's Stats](https://github-readme-stats.vercel.app/api?username=bishnu-suyel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,symfony,mysql)](https://skillicons.dev)
@@ -23,4 +23,4 @@ I am an IT student at Business College Helsinki.
 
 - Find me on: [Linkedin](https://www.linkedin.com/in/bishnu-suyel)
 
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Bis10)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=bishnu-suyel)](https://git.io/streak-stats)
