@@ -11,11 +11,12 @@ I am an IT student at Business College Helsinki.
 
 ## 🌱 Currently Exploring
 
-  - Learning Full Stack Web Development
+### Learning Full Stack Web Development
   - Exploring Reactjs and Symfony.
-  - Styling with Bootstrap to create modern and responsive user interfaces.
-  - Engaging my skills on Drupal and CI/CD.
+  - Styling with Bootstrap and Material-UI.
+  - Engaging my skills in Drupal and CI/CD.
   - Onboarding to AWS
+  - Implementing Unit Testing with Jest
 
 
 ## 📬 Get in Touch
